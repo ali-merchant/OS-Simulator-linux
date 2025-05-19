@@ -9,7 +9,7 @@ void show_main_menu() {
     while (1) {
         if(i !=0){sleep(1);}
         i++;
-        printf("\n--- 🖥  AliOS Task Menu ---\n");
+        printf("\n--- Task Menu ---\n");
         printf("1. Calculator\n");
         printf("2. Notepad\n");
         printf("3. Clock\n");
